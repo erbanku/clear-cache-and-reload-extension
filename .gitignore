@@ -1,0 +1,4 @@
+*folder-alias*
+.vscode/*
+*/.idea/*
+*.pem
