@@ -4,6 +4,8 @@
 
 Chrome extension (Manifest V3) under `src/` for cache clear and reload behavior.
 
+Public listing: Chrome Web Store item ID `fdbnjbgkcadnlionpohbjnhheibpnmoj` ([store URL](https://chromewebstore.google.com/detail/clear-cache-and-reload/fdbnjbgkcadnlionpohbjnhheibpnmoj)).
+
 ## Chrome Web Store publish (GitHub Actions)
 
 Workflow: `.github/workflows/publish.yml` (same pattern as `github-assistant-chrome-extension`).
